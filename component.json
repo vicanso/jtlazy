@@ -1,0 +1,19 @@
+{
+  "name": "jtlazy",
+  "repo": "https://github.com/vicanso/jtlazy",
+  "version": "0.0.1",
+  "description": "jtlazy component",
+  "keywords": [
+    "jtlazy",
+    "component"
+  ],
+  "dependencies" : {
+    "jquery" : "latest",
+    "underscore" : "latest"
+  },
+  "main": "jtlazy.js",
+  "scripts": [
+    "jtlazy.js"
+  ],
+  "license": "MIT"
+}
